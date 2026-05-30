@@ -72,7 +72,7 @@ This figure shows the **terminal output** of the game. It records successful cat
 ---
 
 ## 📝 Sample Output
-
+```
 Caught! Score: 1
 Caught! Score: 2
 Caught! Score: 3
@@ -83,7 +83,7 @@ Missed! Misses: 2
 Caught! Score: 6
 Missed! Misses: 3
 Game Over! Final Score: 6
-
+```
 
 ---
 
